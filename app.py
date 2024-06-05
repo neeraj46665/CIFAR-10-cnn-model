@@ -67,5 +67,5 @@ st.sidebar.info("""
     This application uses a Convolutional Neural Network (CNN) model trained on the CIFAR-10 dataset to classify images. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different classes.
     The model achieves an accuracy of 85% on the CIFAR-10 test dataset.
 
-    Developed by Neeraj Singh.
+    Developed by Faisal Hussain.
 """)
